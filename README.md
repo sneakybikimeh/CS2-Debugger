@@ -4,7 +4,7 @@ This debug.cfg file helps in the process of debugging CS2 commands when working 
 # Installation
 Open the archive and extract its content into the following path folder :
 
-    "\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\sound_player\"
+    "\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
 
 Launch the game, then load the debug.cfg either through a config or by typing in the console the following command: "exec debugger.cfg".
 
