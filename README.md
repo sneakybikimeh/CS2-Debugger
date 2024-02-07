@@ -8,7 +8,7 @@ Open the archive and extract its content into the following path folder :
 
 Launch the game, then load the debug.cfg either through a config or by typing in the console the following command: "exec debugger.cfg".
 
-Your console should play a sound upon config load, otherwise you must have a path issue and the file did not load correctly.
+Your game should play a sound upon config load, otherwise you must have a path issue and the file did not load correctly.
 
 # Usage
 
